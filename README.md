@@ -16,11 +16,17 @@
 ## 🚀 About Me
 
 🎓 Undergraduate student in **Automation**
+
 🔭 Currently exploring **robot control, ROS navigation, and embedded system implementation**
+
 🌱 Learning **control algorithms, SLAM, sensor fusion, and practical robotics engineering**
+
 💡 Previously worked on **STM32-based robot control systems and ROS autonomous vehicles**
+
 🧩 Interested in turning algorithms into reliable real-world robotic systems
+
 📫 How to reach me: **GitHub Issues**
+
 
 ---
 
