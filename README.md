@@ -15,11 +15,11 @@
 
 ## 🚀 About Me
 
-🎓 Undergraduate in **Automation** at Southwest Petroleum University (Double First-Class)
+🎓 Incoming Master's student in **Electronic Information (AI & Automation)** at Tongji University (2026.9)
+
+🎓 B.Eng. in **Automation** from Southwest Petroleum University (2022.9 ~ 2026.7)
 
 🤖 Member of **"Iron Warriors" Robotics Lab** & **EE Innovation Team**
-
-🏆 Multiple **national-level awards** in robotics competitions
 
 🔭 Working on **embedded robot control, ROS navigation, and intelligent systems**
 
@@ -58,48 +58,6 @@
 **Analysis** • Dynamic Modeling • Control System Design • Data Processing
 
 </div>
-
----
-
-## 💼 Experience Highlights
-
-### 🎯 Competition Projects
-
-**RoboMaster Flying Dart System** (National First Prize)
-- STM32-based autonomous aiming system with FreeRTOS
-- Mahony attitude estimation and dual-loop PID control
-- Real-time trajectory prediction and servo control
-
-**ROS Autonomous Navigation Vehicle** (National Second Prize)
-- Atlas 200 DK + ROS navigation stack
-- Gmapping/AMCL SLAM with Kalman filter sensor fusion
-- Custom path planning with dynamic obstacle avoidance
-
-**Two-Wheeled Balancing Robot** (STM32 + FreeRTOS)
-- Motor control logic and serial communication with vision module
-- Dual-layer stepper motor control with trajectory optimization
-
-**Five-Link Walking Robot Simulation**
-- Simulink dynamic modeling with LQR/VMC control
-- Built STM32 driver framework for real-world deployment
-
----
-
-## 🏆 Achievements
-
-### Robotics Competitions
-- 🥇 **RoboMaster** National First Prize
-- 🥈 **Smart Car Competition** National Second Prize (Outdoor ROS)
-- 🥉 **National Robot Competition** Multiple Awards
-
-### Software & Innovation
-- 🥉 **Blue Bridge Cup** Embedded Design (National Third Prize, Provincial First Prize)
-- 🥈 **AI Algorithm Competition** (National Second Prize)
-- 🥉 **Electronic Design Contest** (Provincial First Prize)
-
-### Mathematical Modeling
-- 🎖️ **MCM/ICM** Honorable Mention (H Award)
-- 🥉 **National Math Modeling** (National Third Prize)
 
 ---
 
