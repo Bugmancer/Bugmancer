@@ -65,11 +65,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Bugmancer&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Bugmancer&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=21600&v=20261006" alt="GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bugmancer&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bugmancer&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=21600&v=20261006" alt="Top Languages" />
 
-<img src="https://streak-stats.demolab.com?user=Bugmancer&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=Bugmancer&theme=tokyonight&hide_border=true&v=20261006" alt="GitHub Streak" />
 
 </div>
 
